@@ -1,0 +1,30 @@
+{
+    "embeds": [{
+        "color": 0,
+        "timestamp": "2023-04-09T17:21:18.764Z",
+        "author": {
+            "name": "Memetelve",
+            "icon_url": "https://cdn.discordapp.com/avatars/288717325765443587/d5999bdcd8bcc8455a11fd1f43e34e95.png?size=1024"
+        },
+        "footer": {
+            "icon_url": "https://cdn.discordapp.com/avatars/905528879312150608/ec37af9db7ffc22cf2a4fa7913da889b.png?size=1024",
+            "text": "Prices as of 9th April 2023"
+        },
+        "title": "Premium pricing",
+        "description": "Right now you can only purchase premium by messaging <@288717325765443587>.\n",
+        "fields": [{
+                "name": "One month - 3$",
+                "value": "- saving/loading servers\n- use `ask_gpt` (up to 1million tokens)\n- log every imagine instead of the first in image",
+                "inline": false
+            },
+            {
+                "name": "One year - ?$",
+                "value": "Not available right now ",
+                "inline": false
+            }
+        ],
+        "thumbnail": {
+            "url": "https://t4.ftcdn.net/jpg/02/66/43/05/240_F_266430547_M5OzLU6ShpMCsqWVoGzj5Ej0T9f6HwwU.jpg"
+        }
+    }]
+}
